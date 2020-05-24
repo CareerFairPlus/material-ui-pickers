@@ -144,7 +144,6 @@ export const styles = (theme: Theme) =>
       width: 260,
       position: 'relative',
       pointerEvents: 'none',
-      zIndex: 1,
     },
     squareMask: {
       width: '100%',
